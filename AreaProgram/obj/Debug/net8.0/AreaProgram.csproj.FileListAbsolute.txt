@@ -1,0 +1,14 @@
+Y:\sesharp\AreaProgram\AreaProgram\bin\Debug\net8.0\AreaProgram.exe
+Y:\sesharp\AreaProgram\AreaProgram\bin\Debug\net8.0\AreaProgram.deps.json
+Y:\sesharp\AreaProgram\AreaProgram\bin\Debug\net8.0\AreaProgram.runtimeconfig.json
+Y:\sesharp\AreaProgram\AreaProgram\bin\Debug\net8.0\AreaProgram.dll
+Y:\sesharp\AreaProgram\AreaProgram\bin\Debug\net8.0\AreaProgram.pdb
+Y:\sesharp\AreaProgram\AreaProgram\obj\Debug\net8.0\AreaProgram.GeneratedMSBuildEditorConfig.editorconfig
+Y:\sesharp\AreaProgram\AreaProgram\obj\Debug\net8.0\AreaProgram.AssemblyInfoInputs.cache
+Y:\sesharp\AreaProgram\AreaProgram\obj\Debug\net8.0\AreaProgram.AssemblyInfo.cs
+Y:\sesharp\AreaProgram\AreaProgram\obj\Debug\net8.0\AreaProgram.csproj.CoreCompileInputs.cache
+Y:\sesharp\AreaProgram\AreaProgram\obj\Debug\net8.0\AreaProgram.dll
+Y:\sesharp\AreaProgram\AreaProgram\obj\Debug\net8.0\refint\AreaProgram.dll
+Y:\sesharp\AreaProgram\AreaProgram\obj\Debug\net8.0\AreaProgram.pdb
+Y:\sesharp\AreaProgram\AreaProgram\obj\Debug\net8.0\AreaProgram.genruntimeconfig.cache
+Y:\sesharp\AreaProgram\AreaProgram\obj\Debug\net8.0\ref\AreaProgram.dll
